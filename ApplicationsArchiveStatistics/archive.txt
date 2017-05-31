@@ -1,0 +1,11 @@
+10
+marko-FIT-Request for additional exam-true
+fit-Ministarstvo-Request for funding-false
+janko-FIT-Request for approving the application-true
+janko-FVU-Request for confirmation-false
+slobodno
+slobodno
+slobodno
+slobodno
+slobodno
+slobodno
